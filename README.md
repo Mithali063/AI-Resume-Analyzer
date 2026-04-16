@@ -3,7 +3,7 @@
 An AI-powered web application that analyzes resumes and predicts suitable job roles using Machine Learning and NLP.
 
 🚀 Live Demo
-👉 https://your-app-name.streamlit.app
+👉 https://ai-resume-analyzer-jsw6gndkxcduzkanvnxetx.streamlit.app/
 
 📌 Features
 - 🎯 Job Role Prediction
